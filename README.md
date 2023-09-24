@@ -1,4 +1,4 @@
-This Simple_shell Project is a Team Project for Alx cohort 18 and it is it done by the following Authours:
+Test code
 
 Authours: Miss FAITH OPUTA.
 
@@ -11,7 +11,5 @@ to displaying a prompt that waits for a user command,to handling command line wi
 then handling paths and implementinga built-in that exist shell while moving to the current environ,
 
 then writing a buffer for getline fumctions etc.
-
-Welcome to 0x16.C-Simple_Shell team project!
 
 #DOING HARD THINGS
